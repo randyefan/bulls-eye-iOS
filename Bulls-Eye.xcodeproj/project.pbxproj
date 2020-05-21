@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		61C3733F24766F24004DE434 /* InfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61C3733E24766F24004DE434 /* InfoView.swift */; };
 		61E850572473CC59007C3C63 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61E850562473CC59007C3C63 /* AppDelegate.swift */; };
 		61E850592473CC59007C3C63 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61E850582473CC59007C3C63 /* SceneDelegate.swift */; };
 		61E8505B2473CC59007C3C63 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61E8505A2473CC59007C3C63 /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		61C3733E24766F24004DE434 /* InfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoView.swift; sourceTree = "<group>"; };
 		61E850532473CC59007C3C63 /* Bulls-Eye.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Bulls-Eye.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		61E850562473CC59007C3C63 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		61E850582473CC59007C3C63 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				61E8505C2473CC5C007C3C63 /* Assets.xcassets */,
 				61E850612473CC5C007C3C63 /* LaunchScreen.storyboard */,
 				61E850642473CC5C007C3C63 /* Info.plist */,
+				61C3733E24766F24004DE434 /* InfoView.swift */,
 				61E8505E2473CC5C007C3C63 /* Preview Content */,
 			);
 			path = "Bulls-Eye";
@@ -146,6 +149,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				61C3733F24766F24004DE434 /* InfoView.swift in Sources */,
 				61E850572473CC59007C3C63 /* AppDelegate.swift in Sources */,
 				61E850592473CC59007C3C63 /* SceneDelegate.swift in Sources */,
 				61E8505B2473CC59007C3C63 /* ContentView.swift in Sources */,
